@@ -1,0 +1,36 @@
+.Jumbotron {
+    margin-top: 40px;
+    min-height: 400px;
+    padding: 90px 20px;
+    padding-bottom: 140px;
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
+    background-image: url("https://stmed.net/sites/default/files/harry-potter-wallpapers-29604-4900200.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px rgb(71, 0, 0);
+    font-family: 'Cormorant SC', serif;
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: 10px;
+}
+
+
+
+.textbar {
+    font-size: 50px;
+}
+
+.btn {
+    font-family: 'Cormorant SC', serif;
+    color: white;
+    text-shadow: 1px 1px rgb(71, 0, 0);
+    background-color: #321E3A;
+}
+  
+.btn:hover {
+    color: yellow;
+}

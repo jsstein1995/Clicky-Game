@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("http://images2.fanpop.com/images/photos/8100000/Wizarding-World-of-HP-Theme-Park-harry-potter-8163373-1000-645.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center -6%;
+  /* overflow: hidden; */
+}

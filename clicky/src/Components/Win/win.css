@@ -1,0 +1,30 @@
+.win {
+    display: block;
+    text-align: center;
+    box-sizing: border-box;
+    min-height: 400px;
+    padding: 180px 20px;
+    padding-bottom: 140px;
+    background-image: url("https://stmed.net/sites/default/files/harry-potter-wallpapers-29604-4900200.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #00C4FA;
+    text-shadow: 2px 2px rgb(71, 0, 0);;
+    font-family: 'Monoton', cursive;
+    margin-top: 10px;
+}
+
+.wintext {
+    background: black;
+}
+
+.btn {
+    font-family: 'Cormorant SC', serif;
+    color: white;
+    text-shadow: 1px 1px rgb(71, 0, 0);;
+    background-color: #321E3A;
+}
+
+.btn:hover {
+    color: yellow;
+}
